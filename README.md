@@ -1,55 +1,103 @@
-# 🐍 Snake Water Gun Game | Python
+# 🚀 Python Mini Projects Repository
 
-A beginner-friendly console-based Snake–Water–Gun game developed using Python.
-This project is inspired by the classic Rock–Paper–Scissors game and focuses on
-building logical thinking using simple Python constructs.
+This repository contains a growing collection of **Python mini projects**
+created to strengthen core programming concepts such as logic building,
+control flow, user interaction, and basic library usage.
 
-## 📌 Project Overview
-The game takes input from the user and generates a random choice for the computer.
-Based on predefined game rules, the program determines the result as a **Win, Loss,
-or Draw**.  
-The objective of this project is to practice control flow, user interaction, and
-basic game logic in Python.
-
-## 🎮 Game Rules
-- Snake drinks Water → Snake wins
-- Water drowns Gun → Water wins
-- Gun kills Snake → Gun wins
-- Same choices → Draw
-
-## 🛠️ Tech Stack
-- Programming Language: Python
-- Library Used: random
-
-## 🚀 How to Run the Project
-1. Ensure Python is installed on your system
-2. Clone or download this repository
-3. Open terminal in the project directory
-4. Execute the program:
-
-   python snake_water_gun.py
-
-5. Enter your choice when prompted:
-   - 1 → Snake
-   - 2 → Water
-   - 3 → Gun
-
-## 📂 Project Structure
-Snake-Water-Gun/
-├── snake_water_gun.py
-└── README.md
-
-## 📖 Key Learnings
-- Implemented conditional logic using if-elif-else
-- Handled user input effectively
-- Used random number generation for game behavior
-- Improved understanding of program flow
-
-## 🔮 Future Enhancements
-- Input validation for invalid choices
-- Score tracking system
-- Conversion to GUI-based application
+All projects in this repository are **console-based** and beginner-friendly,
+designed to move from basic logic to slightly more practical use cases.
 
 ---
 
-⭐ Feel free to explore the code and suggest improvements.
+## 📂 Current Projects
+
+### 1️⃣ Snake Water Gun Game
+A console-based game inspired by Rock–Paper–Scissors.
+The user competes against the computer based on predefined game rules.
+
+Concepts Used:
+- Conditional statements
+- Random number generation
+- User input handling
+
+Run:
+python Game.py
+
+---
+
+### 2️⃣ KBC Quiz Game
+A quiz game inspired by *Kaun Banega Crorepati (KBC)*.
+The user answers multiple-choice questions and progresses through prize levels.
+
+Concepts Used:
+- Lists and nested data structures
+- Loops and conditionals
+- Input validation logic
+
+Run:
+python KBC.py
+
+---
+
+### 3️⃣ Alarm Clock with Sound & Speech
+A simple alarm clock that triggers at a given time.
+Includes sound alerts and text-to-speech output.
+
+Concepts Used:
+- Date and time handling
+- Infinite loops
+- External libraries
+
+Libraries:
+datetime, time, winsound, pyttsx3
+
+Run:
+python alarm.py
+
+---
+
+### 4️⃣ Greeting with Speech (Text-to-Speech)
+A program that greets the user based on time and input.
+Uses text-to-speech for interactive output.
+
+Concepts Used:
+- Time-based conditions
+- User input
+- Text-to-speech integration
+
+Run:
+python greetings_speech.py
+
+---
+
+## 🛠️ Tech Stack
+- Language: Python
+- Libraries Used:
+  - random
+  - datetime
+  - time
+  - winsound
+  - pyttsx3
+
+---
+
+## 📖 Learning Objectives
+- Strengthen Python fundamentals
+- Improve logical thinking
+- Practice real-world problem solving
+- Understand basic project structuring
+- Gain confidence in writing executable programs
+
+---
+
+## 🔮 Upcoming Projects
+More Python mini projects will be added to this repository, focusing on:
+- Better user interaction
+- Improved logic complexity
+- Clean and readable code structure
+
+This repository will continue to grow as part of my learning journey.
+
+---
+
+⭐ Feel free to explore the code and share feedback or suggestions.
