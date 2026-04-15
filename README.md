@@ -1,4 +1,4 @@
-# 🚀 Python Mini Projects Repository
+# Python Mini Projects Repository
 
 This repository contains a growing collection of **Python mini projects**
 created to strengthen core programming concepts such as logic building,
@@ -9,9 +9,9 @@ designed to move from basic logic to slightly more practical use cases.
 
 ---
 
-## 📂 Current Projects
+## Current Projects
 
-### 1️⃣ Snake Water Gun Game
+### Snake Water Gun Game
 A console-based game inspired by Rock–Paper–Scissors.
 The user competes against the computer based on predefined game rules.
 
@@ -25,7 +25,7 @@ python Game.py
 
 ---
 
-### 2️⃣ KBC Quiz Game
+### KBC Quiz Game
 A quiz game inspired by *Kaun Banega Crorepati (KBC)*.
 The user answers multiple-choice questions and progresses through prize levels.
 
@@ -39,7 +39,7 @@ python KBC.py
 
 ---
 
-### 3️⃣ Alarm Clock with Sound & Speech
+### Alarm Clock with Sound & Speech
 A simple alarm clock that triggers at a given time.
 Includes sound alerts and text-to-speech output.
 
@@ -56,7 +56,7 @@ python alarm.py
 
 ---
 
-### 4️⃣ Greeting with Speech (Text-to-Speech)
+### Greeting with Speech (Text-to-Speech)
 A program that greets the user based on time and input.
 Uses text-to-speech for interactive output.
 
@@ -70,7 +70,7 @@ python greetings_speech.py
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Language: Python
 - Libraries Used:
   - random
@@ -81,7 +81,7 @@ python greetings_speech.py
 
 ---
 
-## 📖 Learning Objectives
+## Learning Objectives
 - Strengthen Python fundamentals
 - Improve logical thinking
 - Practice real-world problem solving
@@ -90,7 +90,7 @@ python greetings_speech.py
 
 ---
 
-## 🔮 Upcoming Projects
+## Upcoming Projects
 More Python mini projects will be added to this repository, focusing on:
 - Better user interaction
 - Improved logic complexity
